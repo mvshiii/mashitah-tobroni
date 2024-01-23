@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Network Security Analyst Trainee
 --------------------------------
 
-A recent graduate in Computer Science (Information Security). I can be described as someone who eager to learn and high adaptability. I am very passionate in Cyber security and IT security. Equipped with various technical skills that’s required in security fields such as Analytics, Network Security, System and Endpoint Security, Vulnerability Management, Security Information and Event Management (SIEM) Systems, Risk Management Framework, Active Directory Management.
+A recent graduate in Computer Science (Information Security). I can be described as someone who eager to learn and high adaptability. I am very passionate in Cyber security and IT security. Equipped with various technical skills that’s required in security fields such as Analytics, Network Security, System and Endpoint Security, Vulnerability Management, Security Information and Event Management (SIEM) Systems, Risk Management Framework, Active Directory Management, Access Control.
 
 *   🌍  I'm based in Petaling Jaya, MY
 *   ✉️  You can contact me at [mashitah.tobroni@yahoo.com](mailto:mashitah.tobroni@yahoo.com)
