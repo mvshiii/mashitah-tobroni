@@ -9,7 +9,7 @@ A recent graduate in Computer Science (Information Security). I can be described
 *   🌍  I'm based in Petaling Jaya, MY
 *   ✉️  You can contact me at [mashitah.tobroni@yahoo.com](mailto:mashitah.tobroni@yahoo.com)
 *   🧠  I'm learning Identity & Access Management
-*   ⚡  I'm certified Red Velvet enjoyer and currently doing my first Certification in Cyber security (ISC2 CC)
+*   ⚡  I'm certified Red Velvet enjoyer and currently doing my first Certification in Cybersecurity (ISC2 CC)
 
 ### Skills 
 <p align="left">
