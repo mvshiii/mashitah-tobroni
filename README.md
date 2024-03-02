@@ -12,6 +12,7 @@ A recent graduate in Computer Science (Information Security). I can be described
 *   ⚡  I'm certified Red Velvet enjoyer and currently doing my first Certification in Cybersecurity (ISC2 CC)
 
 ### Certifications
+* ISC2 Certified in Cybersecurity (CC)
 * Fortinet Certified Associate Cybersecurity
 * Fortinet Certified Fundamentals Cybersecurity
 * Cisco: Network Security
