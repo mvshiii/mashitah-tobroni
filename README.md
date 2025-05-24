@@ -1,15 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mashitah Mohd Tobroni
 =============================================================================================================================================
 
-Network Security Analyst Trainee
+Cybersecurity Consultant
 --------------------------------
 
-A recent graduate in Computer Science (Information Security). I can be described as someone who eager to learn and high adaptability. I am very passionate in Cyber security and IT security. Equipped with various technical skills that’s required in security fields such as Analytics, Network Security, System and Endpoint Security, Vulnerability Management, Security Information and Event Management (SIEM) Systems, Risk Management Framework, Active Directory Management, Access Control.
+I am just a human interested in cybersecurity in general.
 
-*   🌍  I'm based in Petaling Jaya, MY
-*   ✉️  You can contact me at [mashitah.tobroni@yahoo.com](mailto:mashitah.tobroni@yahoo.com)
-*   🧠  I'm currently learning Identity & Access Management (IAM)
-*   ⚡  I'm certified Red Velvet enjoyer and currently doing my first Certification in Cybersecurity (ISC2 CC)
+*   🌍  I'm based in MY
+*   🧠  GRC, SOC and OT Cybersecurity
+*   ⚡  I'm certified Newjeans and Red Velvet enjoyer
 
 ### Certifications
 * ISC2 Certified in Cybersecurity (CC)
